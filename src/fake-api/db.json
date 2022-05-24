@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Tony Stark",
+      "username": "starkt",
+      "email": "tony.stark@avengers.com",
+      "id": "5Anh8"
+    },
+    {
+      "name": "Steve Rogers",
+      "username": "rogerss",
+      "email": "steve.rogers@avengers.com",
+      "id": "58pZt"
+    },
+    {
+      "name": "Robert Bruce Banner",
+      "username": "bannerb",
+      "email": "natasha.romanoff@avengers.com",
+      "id": "6iyS4"
+    },
+    {
+      "name": "Natasha Romanoff",
+      "username": "romanoffn",
+      "email": "natasha.romanoff@avengers.com",
+      "id": "jyfL1"
+    },
+    {
+      "name": "Thor",
+      "username": "thor",
+      "email": "thor@avengers.com",
+      "id": "gfWQ3"
+    }
+  ],
+  "posts": [
+    {
+      "id": "3587lkiuyjtrg",
+      "title": "My post number one",
+      "author": "Basile Longetti"
+    },
+    {
+      "id": "loiuj8754oiu6",
+      "title": "My post number two",
+      "author": "Anita Postotrinni"
+    }
+  ]
+}
